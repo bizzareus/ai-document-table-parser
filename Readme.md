@@ -21,7 +21,7 @@ This is a clone of Hebbia's document intelligence functionality — enabling use
 ### 1. Install dependencies
 
 ```bash
-# Backend (Node.js / NestJS)
+# Backend (Python/FastAPI)
 cd backend
 npm install
 
@@ -62,8 +62,8 @@ npm start
 ## 🖠 Tech Stack
 
 - **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, NestJS
-- **AI Models:** OpenAI GPT-4 / GPT-3.5
+- **Backend:** Python, FastAPI
+- **AI Models:** OpenAI GPT-4o
 - **Parsing:** PDF.js, docx-parser
 
 ---
