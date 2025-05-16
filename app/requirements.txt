@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+requests
+py-zerox
+greenlet
+pydantic
+sqlalchemy
+asyncpg
+pydantic-settings
+pydantic-core
+pydantic-settings
+google-cloud-storage
+stripe
