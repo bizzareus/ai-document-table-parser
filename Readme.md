@@ -1,4 +1,4 @@
-# 🧠 Hebbia Clone
+# 🧠 AI Document <> Table Parser
 
 A lightweight Hebbia-inspired tool that allows you to **upload documents** and automatically extracts structured insights into a **table using AI**.
 
